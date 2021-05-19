@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 1rem;
+}
+
+a{
+    color: #fff;
+}
+.navbar-text{
+    margin-right: 1rem;
+}
+
+th,td{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.box1{
+    margin-top: 3%;
+}
+.box2{
+    margin-top: 3%;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    margin-bottom: 20px;
+}
+.form-control{
+    margin: 10px auto;
+    width: 100%;
+}
+.btn{
+    display: block;
+    margin-top: 10px;
+}
+#checkbox{
+    margin-right: 6px;
+}
+label{
+    display: inline;
+}
+.welcome{
+    margin: 10% auto;
+    width: 90%;
+    text-align: center;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 3rem;
+}
